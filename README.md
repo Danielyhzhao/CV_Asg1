@@ -35,4 +35,3 @@ Review the code and inline comments for explanations.
 
 Run the text detection system on your own images to test its performance.
 
-Refer to the report for a detailed evaluation of the system.
